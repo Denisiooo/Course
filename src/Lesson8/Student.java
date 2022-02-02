@@ -23,6 +23,4 @@ public class Student {
     public static void changeName(Student s1){
         s1.name = "Vasiliy";
     }
-
-
 }
